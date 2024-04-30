@@ -6,5 +6,5 @@ Foreign art enthusiasts use three-dimensional graphics conversion technology (3D
 ### Part 2: Coding Technique Exploration
 Stereoscopic graphics conversion technology can be implemented using JavaScript programming language, which is a web development language specifically designed for interactive. We can use the Three.js library to develop 2D to 3D famous paintings in major projects. This is a JavaScript-based 3D program library that can easily create 3D objects and scenes and set the object's lighting and materials. Three.js can interact through mouse, keyboard, drag and other events, and animate 3D images to make the artwork more vivid and three-dimensional.
 
-This is a 3D image generated using three.js.![Alt text](https://img-blog.csdnimg.cn/b40959647afa44259f31dc27f3d67103.gif)
+This is a 3D animated image generated using three.js.![Alt text](https://img-blog.csdnimg.cn/b40959647afa44259f31dc27f3d67103.gif)
 [Links to sample code.](https://github.com/mrdoob/three.js/blob/master/examples/webgl_animation_keyframes.html)
