@@ -3,6 +3,7 @@
 In recent years, many art lovers have used 3D graphics conversion technology (3D imaging technology) to convert many of the world's most famous paintings into 3D models. I want to try to use three-dimensional graphics conversion technology to conduct deep image analysis of famous paintings in major projects and reconstruct them into 3-dimensional images, so that the pictures present a three-dimensional and dynamic image. Three-dimensional graphics conversion technology can also be combined with elements such as pixels, light and shadow to increase the layering of the picture and enrich the visual effects.
 
 Here are some of the artists who have inspired me.
+
 [LThe Pablo Picasso paintings in the 3D sculptures by Omar Aqil.](https://www.collater.al/en/pablo-picasso-3d-sculptures-omar-aqil/)
 ![Alt text](http://www.collater.al/wp-content/uploads/2017/04/I-dipinti-di-Pablo-Picasso-in-3D-dell%E2%80%99artista-Omar-Aquil-Collater.al-3.jpeg)
 
